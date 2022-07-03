@@ -29,7 +29,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 text-bg-stone-50	 bg-slate-800">
+    <div className=" sticky top-0 flex justify-between items-center w-full h-20 px-4 text-bg-stone-50	 bg-slate-800">
       <div>
         <h1 className="text-5xl font-signature ml-2">RIZU</h1>
       </div>
