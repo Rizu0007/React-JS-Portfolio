@@ -29,9 +29,9 @@ const NavBar = () => {
   ];
 
   return (
-    <div className=" sticky top-0 flex justify-between items-center w-full h-20 px-4 text-bg-stone-50	 bg-slate-800">
+    <div className=" sticky top-0 flex justify-between items-center w-full h-20 px-4 text-bg-white-50	 bg-slate-800">
       <div>
-        <h1 className="text-5xl font-signature ml-2">RIZU</h1>
+        <h1 className="text-5xl text-white font-signature ml-2">RIZU</h1>
       </div>
 
       <ul className="hidden md:flex">

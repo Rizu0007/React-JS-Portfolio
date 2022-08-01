@@ -5,16 +5,18 @@ import navbar from "../assets/portfolio/navbar.jpg";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
-
+import weather from "../assets/weather.jpg"
+import blog from "../assets/blog.png"
+import todo from "../assets/todo.PNG"
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: weather,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: blog,
     },
     {
       id: 3,
@@ -22,16 +24,9 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: reactSmooth,
+      src: todo,
     },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
-    },
+    
   ];
 
   return (
@@ -59,10 +54,10 @@ const Portfolio = () => {
               />
               <div className="flex items-center justify-center">
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
+               React.js project
                 </button>
                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Code
+                
                 </button>
               </div>
             </div>
