@@ -14,13 +14,12 @@ const About = () => {
       </div>
 
         <p className="text-xl Slate-400 mt-20">
-        My aspiration to live creativity and meet people’s actual needs when it comes to media consumption led me to complete my Bachelor’s in software. My aim is always to combine a pragmatic approach with aesthetics, while improving communication between people.
+        I am a software engineering student.recently I have pass semester 5. I have one year experience in front-end development so right now 1 looking for opportunity
         </p>
 
         <br />
 
-        <p className="text-xl">
-        As a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities.       </p>
+        <p className="text-xl">My aim is always to combine a pragmatic approach with aesthetics, while improving communication between people.    </p>
       </div>
     </div>
   );
