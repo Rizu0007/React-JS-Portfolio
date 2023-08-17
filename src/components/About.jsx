@@ -19,7 +19,7 @@ const About = () => {
 
         <br />
 
-        <p className="text-xl">My aim is always to combine a pragmatic approach with aesthetics, while improving communication between people.    </p>
+        <p className="text-xl">My aim is always to combine a pragmatic approach with aesthetics.    </p>
       </div>
     </div>
   );
